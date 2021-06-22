@@ -1,12 +1,5 @@
 # Organização do conteúdo de Ciência de Dados do canal Programação Dinâmica
 
-Course-in-a-Box is a free tool for building and publishing online courses — no prior coding experience required. 
-
-To create your own course, simply fork this repository and delete the CNAME file. Detailed documentation is available at [course-in-a-box.p2pu.org](https://course-in-a-box.p2pu.org).
-
-To make changes to the template itself, a good place to start is the [`_layouts`](/_layouts), [`_includes`](/_includes) and [`css`](/css) directories. These directories contain all the layout and style files used.
-
-Questions? Ask on P2PU's [Community Forum](https://community.p2pu.org/c/tech/course-in-a-box/78).
 
 # Running locally
 - [install docker](https://docs.docker.com/engine/install/) 
